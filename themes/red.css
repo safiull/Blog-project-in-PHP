@@ -1,0 +1,68 @@
+	/* Red */
+	.headersection {
+    	background: tomato none repeat scroll 0 0;
+	}
+	.icon a {
+    	background: white none repeat scroll 0 0;
+    	color: tomato;
+	}
+	.icon a:hover {
+    	background: #8f1733 none repeat scroll 0 0;
+    	color: white;
+	}
+	.searchbtn input[type="text"] {
+	    border: 1px solid #d15858;
+    	background: tomato;
+	}
+	.searchbtn input[type="submit"] {
+		background: tomato none repeat scroll 0 0;
+    	border: 1px solid tomato;
+    	border-radius: 3px;
+    	border: 1px solid #fff;
+	}
+	.searchbtn input[type="submit"]:hover {
+	    background: tomato none repeat scroll 0 0;
+	    border: 1px solid #fff;
+	    color: #fff;
+	}
+	.navsection {
+	    background: none repeat scroll 0 0 #d15858;
+	}
+	#active {
+	    background: #d15858;
+	}
+	.navsection ul li {
+	    border-right: 0px solid tomato;
+	}
+	.maincontent {
+	    background: #d15858 none repeat scroll 0 0;
+	    border: 1px solid tomato;
+	}
+	.readmore a {
+	    background: tomato none repeat scroll 0 0;
+	    border: 1px solid #d15858;
+	    color: white;
+	}
+	.sidebar {
+	    background: #d15858 none repeat scroll 0 0;
+	    border: 1px solid tomato;
+	}
+	.samesidebar h2 {
+	    background: tomato none repeat scroll 0 0;
+	    border-bottom: 2px solid #d15858;
+	    color: #fff;
+	}
+	.footersection {
+	    background: #d15858;
+	}
+	.footermenu ul li a {
+	    color: #fff;
+	}
+	.samepost h2, .about h2 {
+	    color: #fff;
+	}
+	input[type="submit"] {
+	    background: #fff none repeat scroll 0 0;
+	    border: 1px solid tomato;
+	    color: black;
+	}

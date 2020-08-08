@@ -1,0 +1,68 @@
+	/* green */
+	.headersection {
+    	background: green none repeat scroll 0 0;
+	}
+	.icon a {
+    	background: white none repeat scroll 0 0;
+    	color: green;
+	}
+	.icon a:hover {
+    	background: #4234 none repeat scroll 0 0;
+    	color: white;
+	}
+	.searchbtn input[type="text"] {
+	    border: 1px solid #28A755;
+    	background: #28A70C
+	}
+	.searchbtn input[type="submit"] {
+		background: green none repeat scroll 0 0;
+    	border: 1px solid green;
+    	border-radius: 3px;
+    	border: 1px solid #fff;
+	}
+	.searchbtn input[type="submit"]:hover {
+	    background: green none repeat scroll 0 0;
+	    border: 1px solid #fff;
+	    color: #fff;
+	}
+	.navsection {
+	    background: none repeat scroll 0 0 #22b361;
+	}
+	#active {
+	    background: #22b361;
+	}
+	.navsection ul li {
+	    border-right: 0px solid green;
+	}
+	.maincontent {
+	    background: #6bd197 none repeat scroll 0 0;
+	    border: 1px solid green;
+	}
+	.readmore a {
+	    background: green none repeat scroll 0 0;
+	    border: 1px solid #6bd197;
+	    color: white;
+	}
+	.sidebar {
+	    background: #6bd197 none repeat scroll 0 0;
+	    border: 1px solid green;
+	}
+	.samesidebar h2 {
+	    background: #189e52 none repeat scroll 0 0;
+	    border-bottom: 2px solid #6bd197;
+	    color: #fff;
+	}
+	.footersection {
+	    background: #6bd197;
+	}
+	.footermenu ul li a {
+	    color: #fff;
+	}
+	.samepost h2, .about h2 {
+	    color: #fff;
+	}
+	input[type="submit"] {
+	    background: #fff none repeat scroll 0 0;
+	    border: 1px solid green;
+	    color: black;
+	}
